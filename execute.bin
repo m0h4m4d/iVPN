@@ -1,0 +1,6 @@
+import os
+
+
+os.system('service tor start')
+os.system('proxychains firefox https://duckduckgo.com')
+
