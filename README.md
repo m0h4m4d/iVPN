@@ -5,8 +5,8 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
       https://github.com/razyar
 
 # How to use? 
-      1 - Clone or download
-      2 - Cd to folder
+      1 - Clone or download https://github.com/razyar/iVPN/
+      2 - Cd to folder ~: cd iVPN
       3 - python ivpn.py
   
   
