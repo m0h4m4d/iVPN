@@ -1,6 +1,8 @@
 # iVPN
-# FREE OPEN SOURCE VPN (GUI) FOR LINUX
-# https://github.com/m0h4m4ad - https://github.com/razyar
+FREE OPEN SOURCE VPN (GUI) FOR LINUX
+
+      https://github.com/m0h4m4ad
+      https://github.com/razyar
 
 # How to use? 
       1 - Clone or download
