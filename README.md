@@ -3,9 +3,9 @@
 # https://github.com/m0h4m4ad - https://github.com/razyar
 
 # How to use? 
-  # 1 - Clone or download 
-  # 2 - Cd to folder
-  # 3 - python ivpn.py
+   1 - Clone or download 
+   2 - Cd to folder
+   3 - python ivpn.py
   
   
 # Notice: 
@@ -15,4 +15,4 @@
     
     
     
-with 🖤 by iSpace team.
+with #🖤 by iSpace team.
