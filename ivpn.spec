@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ivpn.py'],
-             pathex=['/home/mohammad/Desktop/ivpn'],
+             pathex=['/home/*****/****/****/******/*************/****/ivpn'],
              binaries=[],
              datas=[],
              hiddenimports=[],
