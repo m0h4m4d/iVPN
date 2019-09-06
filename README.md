@@ -1,6 +1,6 @@
 ## iVPN
-   Programmer: [Github](https://github.com/m0h4m4ad)
-   Second Programmer - Idea: [Github](https://github.com/razyar)
+   Programmer: [Github](https://github.com/razyar)
+   Second Programmer - Idea: [Github](https://github.com/m0h4m4d)
 
 # Require:
       Recommend to use require.py in files.
