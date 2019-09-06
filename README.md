@@ -4,10 +4,21 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
       https://github.com/m0h4m4ad
       https://github.com/razyar
 
+# Require
+      1 - tor service 
+      #Installing tor
+            sudo apt-get install tor
+      2 - proxychains (ver 3)
+      #Installing proxychains
+            sudo apt-get install proxychains
+            
+
 # How to use? 
       1 - Clone or download https://github.com/razyar/iVPN/
       2 - Cd to folder ~: cd iVPN
       3 - python ivpn.py
+      4 - Click on "Connect"
+      5 - Enter your system password (Need to start tor service)
   
   
 # Notice: 
