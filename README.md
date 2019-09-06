@@ -1,6 +1,4 @@
 ## iVPN
-FREE OPEN SOURCE VPN (GUI) FOR LINUX
-
       https://github.com/m0h4m4ad
       https://github.com/razyar
 
