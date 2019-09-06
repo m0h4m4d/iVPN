@@ -5,6 +5,9 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
       https://github.com/razyar
 
 # Require
+      Recommend to use require.py in files.
+      affter cloning or download, cd to folder and use ( python require.py )
+
       1 - tor service  
       --> sudo apt-get install tor
       2 - proxychains (ver 3)
