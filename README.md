@@ -1,10 +1,7 @@
 ## iVPN
-       Programmer: [Github](https://github.com/m0h4m4ad)
-       Second Programmer - Idea: [Github](https://github.com/razyar)
+   Programmer: [Github](https://github.com/m0h4m4ad)
+   Second Programmer - Idea: [Github](https://github.com/razyar)
 
-
-## myLib documentation
-see documentation [here](myLib/README.md)
 # Require:
       Recommend to use require.py in files.
       affter cloning or download, cd to folder and use ( python require.py )
