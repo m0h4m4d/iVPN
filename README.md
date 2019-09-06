@@ -1,6 +1,6 @@
 ## iVPN
-      <h1><a href=https://github.com/m0h4m4ad> razyar saeedian </a></h1>
-      https://github.com/razyar
+      ## https://github.com/m0h4m4ad
+      ## https://github.com/razyar
 
 # Require:
       Recommend to use require.py in files.
