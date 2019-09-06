@@ -4,7 +4,7 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
       https://github.com/m0h4m4ad
       https://github.com/razyar
 
-# Require
+# Require:
       Recommend to use require.py in files.
       affter cloning or download, cd to folder and use ( python require.py )
 
@@ -23,7 +23,7 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
   
   
 # Notice: 
-        1- DO NOT cut or delete execute.bin 
+        1- DO NOT rename or delete execute.bin 
         2- You can compile the code via PyInstaller --onefile ivpn.py
         3- Go to dist and run!
     
