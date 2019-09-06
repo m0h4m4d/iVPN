@@ -6,9 +6,9 @@ FREE OPEN SOURCE VPN (GUI) FOR LINUX
 
 # Require
       1 - tor service  
-      ->                sudo apt-get install tor
+      --> sudo apt-get install tor
       2 - proxychains (ver 3)
-      ->                sudo apt-get install proxychains
+      --> sudo apt-get install proxychains
             
 
 # How to use? 
