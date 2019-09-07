@@ -6,4 +6,5 @@ import os
 
 os.system('sudo apt-get install tor')
 os.system('sudo apt-get install proxychains')
+os.system('sudo apt-get install proxychains4')
 
