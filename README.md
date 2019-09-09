@@ -1,4 +1,4 @@
-## iVPN
+## iVPN 2.0
 
    Programmer: [Github](https://github.com/razyar)
    Second Programmer - Idea: [Github](https://github.com/m0h4m4d)
@@ -13,7 +13,11 @@
       --> sudo apt-get install tor
       2 - proxychains (ver 3)
       --> sudo apt-get install proxychains
-            
+      3- proxychains-ng
+      --> ./configure
+      --> make
+      --> sudo make install 
+
 
 # How to use? 
       1 - Clone or download https://github.com/razyar/iVPN/
