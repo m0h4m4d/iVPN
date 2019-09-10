@@ -17,7 +17,7 @@ def configure():
 
 
 def config_confFile():
-	os.system('sudo cp proxychains.conf /etc/proxychains.conf')
+	os.system('sudo cp proxychains.conf /etc/')
 
 
 install_requires()
